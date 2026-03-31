@@ -47,18 +47,6 @@ PEAK is tailored specifically for competency-based education, making it the idea
 
 ---
 
-## Getting Started
-
-### Schedule a Demo
-See PEAK in action by requesting a demo.  
-
-### Contact Sales
-For pricing or implementation inquiries, contact our sales team.
-
----
-
 ## About
 **PEAK** – Performance Evaluation and Assessment Kit, built for TVET institutions.  
 © 2026 PEAK. All rights reserved.
-
----
